@@ -1,0 +1,40 @@
+body{
+    max-width: 400px;
+    max-height: 550px;
+    text-align: center;
+    border-color:black;
+    border-width: 2px;
+    border-style: solid;
+    padding: 7px;
+}
+.title{
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 22px;
+padding: 7px 40px
+
+}
+.credit{
+text-align: left;
+
+}
+.price{
+    padding: 15px 40px 15px 40px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 31px;
+
+}
+.button{
+  display: inline-block;
+  color: white;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 28px;
+  text-decoration: none;
+  padding: 7px 45px;
+  outline: none;
+  box-shadow: 0 -3px #850000 inset;
+  transition: 0.2s;
+  box-shadow: 4px inset ;
+ 
+  border-radius: 0px;
+  background:#ff0000;
+}
